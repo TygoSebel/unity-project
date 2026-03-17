@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class Mover : MonoBehaviour
 {
-    [SerializeField] float moveSpeed = 20f;
+    [SerializeField] float moveSpeed = 15f;
     
     void Start()
     {
